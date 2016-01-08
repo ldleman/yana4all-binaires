@@ -1,0 +1,8 @@
+/old
+/mouth
+/launcher
+/ear
+/bin/*.config
+/bin/*.pdb
+/bin/*.manifest
+/bin/Newtonsoft.Json.xml
