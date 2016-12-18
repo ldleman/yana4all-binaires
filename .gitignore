@@ -6,3 +6,5 @@
 /bin/*.pdb
 /bin/*.manifest
 /bin/Newtonsoft.Json.xml
+/bin/ear.vshost.exe
+/bin/conf.json
